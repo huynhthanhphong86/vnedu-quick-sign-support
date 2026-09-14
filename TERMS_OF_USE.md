@@ -20,7 +20,7 @@ Không được dùng Tiện ích để truy cập trái phép, giả mạo ngư
 
 ## 5. Cập nhật và hỗ trợ
 
-Tiện ích có thể cần cập nhật khi vnEdu thay đổi. Nhà phát triển có thể thay đổi, tạm ngừng hoặc chấm dứt một chức năng vì lý do bảo mật, kỹ thuật hoặc tuân thủ. Hỗ trợ được tiếp nhận tại <https://github.com/huynhthanhphong86/vnedu-quick-sign/issues>.
+Tiện ích có thể cần cập nhật khi vnEdu thay đổi. Nhà phát triển có thể thay đổi, tạm ngừng hoặc chấm dứt một chức năng vì lý do bảo mật, kỹ thuật hoặc tuân thủ. Hỗ trợ được tiếp nhận tại <https://github.com/huynhthanhphong86/vnedu-quick-sign-support/issues>.
 
 ## 6. Bản quyền
 
