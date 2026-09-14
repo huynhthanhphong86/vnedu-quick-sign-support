@@ -43,4 +43,4 @@ Khi cách xử lý dữ liệu thay đổi đáng kể, chính sách này sẽ �
 
 ## 8. Liên hệ
 
-Yêu cầu về quyền riêng tư và hỗ trợ được tiếp nhận tại: <https://github.com/huynhthanhphong86/vnedu-quick-sign/issues>
+Yêu cầu về quyền riêng tư và hỗ trợ được tiếp nhận tại: <https://github.com/huynhthanhphong86/vnedu-quick-sign-support/issues>
